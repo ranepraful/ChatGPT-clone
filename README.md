@@ -1,4 +1,4 @@
-#Tech used
+##Tech used
 1) React JS
 2) CSS Flexbox
 3) Media Query
